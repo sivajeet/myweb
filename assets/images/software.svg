@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>046 - C++ Programming</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="046---C++-Programming" transform="translate(1.000000, 1.000000)">
+            <path d="M56,13 L56,54 L2,54 L2,13 C2.0032948,11.8967981 2.89679813,11.0032948 4,11 L54,11 C55.1032019,11.0032948 55.9967052,11.8967981 56,13 Z" id="Shape" fill="#FFB600" fill-rule="nonzero"></path>
+            <path d="M53,13 L53,54 L2,54 L2,13 C2.0032948,11.8967981 2.89679813,11.0032948 4,11 L51,11 C52.1032019,11.0032948 52.9967052,11.8967981 53,13 Z" id="Shape" fill="#FFE100" fill-rule="nonzero"></path>
+            <path d="M52,16 L52.000062,50 L6,50 L6,16 C6,15.4477153 6.44771525,15 7,15 L51,15 C51.2661179,14.9970233 51.522205,15.101424 51.7103905,15.2896095 C51.898576,15.477795 52.0029767,15.7338821 52,16 Z" id="Shape" fill="#FF8800" fill-rule="nonzero"></path>
+            <path d="M49,16 L49.000062,50 L6,50 L6,16 C6,15.4477153 6.44771525,15 7,15 L48,15 C48.2661179,14.9970233 48.522205,15.101424 48.7103905,15.2896095 C48.898576,15.477795 49.0029767,15.7338821 49,16 Z" id="Shape" fill="#FFB600" fill-rule="nonzero"></path>
+            <path d="M58,50 L58,54 C58,56.209139 56.209139,58 54,58 L4,58 C1.790861,58 2.22044605e-16,56.209139 0,54 L0,50 C-1.11022302e-16,49.4477153 0.44771525,49 1,49 L57,49 C57.5522847,49 58,49.4477153 58,50 Z" id="Shape" fill="#FFB600" fill-rule="nonzero"></path>
+            <path d="M55,50 L55,54 C55,56.209139 53.209139,58 51,58 L4,58 C1.790861,58 2.22044605e-16,56.209139 0,54 L0,50 C-1.11022302e-16,49.4477153 0.44771525,49 1,49 L54,49 C54.5522847,49 55,49.4477153 55,50 Z" id="Shape" fill="#FFE100" fill-rule="nonzero"></path>
+            <path d="M35.764,53 L22.236,53 C21.4783083,52.9999743 20.7856882,52.571781 20.447,51.894 L19,49 L39,49 L37.553,51.894 C37.2143118,52.571781 36.5216917,52.9999743 35.764,53 Z" id="Shape" fill="#FF8800" fill-rule="nonzero"></path>
+            <path d="M4,58 L7,58 C4.790861,58 3,56.209139 3,54 L3,50 C3,49.4477153 3.44771525,49 4,49 L5,49 L5,13 C5.0032948,11.8967981 5.89679813,11.0032948 7,11 L4,11 C2.89679813,11.0032948 2.0032948,11.8967981 2,13 L2,49 L1,49 C0.44771525,49 0,49.4477153 0,50 L0,54 C2.22044605e-16,56.209139 1.790861,58 4,58 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="3 13 3 26 3 49 1 49 1 26 1 13"></polygon>
+            <path d="M2,18 C2.55228475,18 3,17.5522847 3,17 L3,13 L1,13 L1,17 C1,17.5522847 1.44771525,18 2,18 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M1,49 L3,49 L3,25 C3,24.4477153 2.55228475,24 2,24 C1.44771525,24 1,24.4477153 1,25 L1,49 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3,21 C2.99611961,20.7352731 2.89256504,20.481743 2.71,20.29 L2.56,20.17 C2.50427287,20.1321227 2.44373808,20.1018554 2.38,20.08 C2.32333758,20.0511123 2.26266255,20.0308873 2.2,20.02 C2.13385548,20.0088692 2.06703885,20.0021875 2,20 C1.73527314,20.0038804 1.48174298,20.107435 1.29,20.29 C1.19960316,20.3856071 1.12832305,20.4976187 1.08,20.62 C0.929123424,20.9929737 1.01135194,21.4197788 1.29,21.71 C1.38560709,21.8003968 1.49761868,21.871677 1.62,21.92 C1.74022231,21.971241 1.86932274,21.99842 2,22 C2.26472686,21.9961196 2.51825702,21.892565 2.71,21.71 C2.89256504,21.518257 2.99611961,21.2647269 3,21 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M2,13 C2,11.8954305 2.8954305,11 4,11 L10,11" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M48,11 L54,11 C55.1045695,11 56,11.8954305 56,13 L56,49 L2,49" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M48,15 L51,15 C51.5522847,15 52,15.4477153 52,16 L52,49 L6,49 L6,16 C6,15.4477153 6.44771525,15 7,15 L10,15" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M1,49 L57,49 C57.5522847,49 58,49.4477153 58,50 L58,54 C58,56.209139 56.209139,58 54,58 L4,58 C1.790861,58 2.22044605e-16,56.209139 0,54 L0,50 C-1.11022302e-16,49.4477153 0.44771525,49 1,49 Z" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M35.764,53 L22.236,53 C21.4783083,52.9999743 20.7856882,52.571781 20.447,51.894 L19,49 L39,49 L37.553,51.894 C37.2143118,52.571781 36.5216917,52.9999743 35.764,53 Z" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M0,53 L12,53" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16,53 L17,53" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M58,53 L46,53" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M42,53 L41,53" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M24,12 L24,13 C24,15.7614237 21.7614237,18 19,18 C16.2385763,18 14,15.7614237 14,13 L14,5 C14,2.23857625 16.2385763,6.66133815e-16 19,0 C20.3260824,1.11022302e-16 21.597852,0.526784202 22.5355339,1.46446609 C23.4732158,2.40214799 24,3.67391755 24,5 L24,6" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M31,6 L31,12" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M34,9 L28,9" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M41,6 L41,12" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M44,9 L38,9" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10,21 L12,21" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10,25 L12,25" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10,29 L12,29" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10,33 L12,33" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10,37 L12,37" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10,41 L12,41" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M10,45 L12,45" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M23,21 L38,21" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M43,21 L47,21" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="16 41 18 43 16 45"></polyline>
+            <path d="M22,45 L24,45" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="16 41 18 43 16 45"></polyline>
+            <path d="M22,45 L24,45" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16,25 L32,25" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M37,25 L41,25" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16,29 L25,29" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16,33 L21,33" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M27,33 L39,33" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16,37 L30,37" id="Shape" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
