@@ -155,7 +155,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: #c7ecee; }
+body { background: #ffffcc; }
 
 
 
@@ -332,7 +332,7 @@ main {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
+ 
   border-radius: 200px;
 }
 
