@@ -155,7 +155,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background-image: url("../images/black.jpg"); }
+body { background: #906df1; }
 
 
 
