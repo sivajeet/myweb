@@ -3,16 +3,29 @@ const screenWidth = window.innerWidth;
 const screenHeight = window.innerHeight;
 
 function createShape() {
-    const shapes = ['square', 'circle'];
+    const studyEmojis = [
+        '📚', '📖', '🎓', '📝', '📅', '🧠', '📓', '📜', '📋', '🖋', '✏️', '📏',
+        '📎', '📚', '📊', '📈', '🔍'
+    ]; // Study-related emojis
+
+    const humanEmojis = [
+        '👩‍🎓', '👨‍🎓', '👩‍💼', '👨‍💼', '🙋', '🙇', '💁', '🤷'
+    ]; // Human emojis
+
+    const funnyEmojis = [
+        '😄', '😎', '🤓'
+    ]; // Funny emojis
+
+    const emojiCategories = [studyEmojis, humanEmojis, funnyEmojis];
+    const randomCategory = emojiCategories[Math.floor(Math.random() * emojiCategories.length)];
     const shape = document.createElement('div');
-    const randomShape = shapes[Math.floor(Math.random() * shapes.length)];
-    shape.classList.add('shape', randomShape);
+    const randomEmoji = randomCategory[Math.floor(Math.random() * randomCategory.length)];
+    shape.classList.add('shape'); // You can keep this class for styling
 
     const size = Math.random() * 50 + 10; // Random size between 10 and 60 pixels
-    shape.style.width = size + 'px';
-    shape.style.height = size + 'px';
+    shape.style.fontSize = size + 'px'; // Set the font size to control the emoji size
 
-    shape.style.border = `4px solid ${getRandomColor()}`; // Increase border thickness and use random color
+    shape.innerText = randomEmoji; // Set the emoji as the inner text
 
     // Adjust initial positions to cluster more towards the edges
     const initialX = Math.random() * (screenWidth - size * 2) + size; // Avoid shapes starting at the very edge
@@ -25,7 +38,7 @@ function createShape() {
     const verticalVelocity = Math.random() * 2 - 1; // Random value between -1 and 1
 
     // Use CSS animations for movement
-    shape.style.animation = `move-${randomShape} ${(Math.random() * 4 + 2)}s linear infinite`;
+    shape.style.animation = 'move-emoji ' + (Math.random() * 4 + 2) + 's linear infinite';
     shape.style.animationDirection = horizontalVelocity < 0 ? 'reverse' : 'normal';
     shape.style.animationIterationCount = 'infinite';
 
@@ -54,13 +67,4 @@ function createShape() {
     background.appendChild(shape);
 }
 
-function getRandomColor() {
-    const letters = '0123456789ABCDEF';
-    let color = '#';
-    for (let i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
-}
-
-setInterval(createShape, 100); // Add squares and circles to the background more frequently
+setInterval(createShape, 100); // Add mixed emojis to the background more frequently
