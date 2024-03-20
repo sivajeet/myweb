@@ -155,7 +155,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: #1A1A33; }
+body { background: #000000; }
 
 
 
@@ -164,7 +164,7 @@ body { background: #1A1A33; }
   z-index: 2;
   background: rgba(216, 234, 240, 0.2);
   padding: 20px;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-left: 20px;
   margin-right: 20px;
   border-radius: 20px;
