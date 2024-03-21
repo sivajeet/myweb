@@ -155,7 +155,25 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: #FFFF66; }
+body { display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background: linear-gradient(to right, #ffe066, #ffffff, #ffe066);
+    background-size: 200% 100%;
+    animation: gradientAnimation 10s ease infinite; }
+
+@keyframes gradientAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+}
 
 
 
