@@ -157,6 +157,7 @@ html { font-family: var(--ff-poppins); }
 
 body { 
     background: linear-gradient(to right, #ffe066, #ffffff, #ffe066);
+    background-size: 200% 100%;
     animation: gradientAnimation 10s ease infinite; }
 
 @keyframes gradientAnimation {
