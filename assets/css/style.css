@@ -155,9 +155,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { display: flex;
-    align-items: center;
-    justify-content: center;
+body { 
     overflow: hidden;
     background: linear-gradient(to right, #ffe066, #ffffff, #ffe066);
     background-size: 200% 100%;
